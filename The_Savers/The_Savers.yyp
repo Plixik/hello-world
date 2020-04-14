@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "05331aea-8190-4df1-b2fe-217b0a0f89ff",
+            "Value": {
+                "id": "3c6de987-2eb0-44df-8244-9accdead1f71",
+                "resourcePath": "objects\\object7\\object7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0b466275-4dd0-4424-808e-343ddc00bcf0",
             "Value": {
                 "id": "2c856587-58c2-42e0-a803-8abb29aafb3b",
@@ -60,6 +68,14 @@
                 "id": "ceac48ee-39fb-4370-9e4e-1f816c2d613f",
                 "resourcePath": "fonts\\fnt_default\\fnt_default.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "18efb6ac-3b84-4b44-8011-bc1ee868b44f",
+            "Value": {
+                "id": "f4302f79-aedf-4d96-9e74-54f239e04eef",
+                "resourcePath": "objects\\object11\\object11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -99,6 +115,14 @@
             "Value": {
                 "id": "13adfe5f-c4d3-4b3d-abaf-7e9d46e4847f",
                 "resourcePath": "objects\\obj_room_warp\\obj_room_warp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "481041fb-0f58-436b-b206-178697378690",
+            "Value": {
+                "id": "ce28b9b8-6b6e-4b7c-918a-3d6b9f11deb3",
+                "resourcePath": "objects\\object10\\object10.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -172,6 +196,14 @@
                 "id": "629ca727-d7bd-45ad-8d8b-0cb344966e56",
                 "resourcePath": "views\\8d3264ce-6744-4613-8a4b-ec3449303151.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96c79645-a79c-4417-8f72-9d61b91de16f",
+            "Value": {
+                "id": "e53f5a74-29ee-4327-b5b0-e0a05a96c254",
+                "resourcePath": "objects\\object9\\object9.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -275,6 +307,14 @@
             "Value": {
                 "id": "86257df1-5dd1-4e55-ab5f-e3ff9d703ab2",
                 "resourcePath": "objects\\obj_coin\\obj_coin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dcdaddd8-5466-45ec-9594-254ec8d129f1",
+            "Value": {
+                "id": "21d0588d-869d-48b9-9657-35d4d9647216",
+                "resourcePath": "objects\\object8\\object8.yy",
                 "resourceType": "GMObject"
             }
         },
