@@ -2,4 +2,4 @@
 
 Hello people!
 
-My name is Nappa. I am sad Begeta killed me. :(
+My name is Nappa. I am sad Vegeta killed me. :(
